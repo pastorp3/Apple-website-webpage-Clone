@@ -19,7 +19,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://pastorp3.github.io/)
+[Live Demo Link](https://raw.githack.com/pastorp3/Apple-website-webpage-Clone/master/index.html)
 
 ## Authors
 
